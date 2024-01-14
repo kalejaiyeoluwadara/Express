@@ -1,4 +1,4 @@
-# MIini JSON-SERVER  
+# Mini JSON-SERVER  
 ### Project Brief
 Tried creating a version of Json-server to serve .json files and access them easily from localhost, basically making it easy to access JSON files faster rather than mapping JSON files manually from .jsx or js files. In summary Json files can be accessed from anywhere as long as it's being served.
 ### Project Setup
